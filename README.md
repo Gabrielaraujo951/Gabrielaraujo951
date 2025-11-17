@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Sejam bem vindos👋
+Este é meu repositório
+ Meu nome é Gabriel Silva Araujo
+- Estudante de Análise de Desenvolvimento de Sistemas;
+- Trabalho no Supremo Tribunal Militar, exercendo a função atualmente como motorista; 
+- Contenho cursos de MOPP, CVE, INFORMATICA e CAT D;
+- Repositórios do meu perfil são atividades do meu curso;
+- E-mails para contato:
+  gs668951@gmail.com (Pessoal)
+  gabriel.araujo002@cs.udf.edu.br(Academico)
+- Redes social:
+  https://www.linkedin.com/in/gabriel-silva-ara%C3%BAjo-529916347/
 
-<!--
-**Gabrielaraujo951/Gabrielaraujo951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
