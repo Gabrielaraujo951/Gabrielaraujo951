@@ -3,7 +3,7 @@
 ### Meu nome é Gabriel Silva Araujo
 - Estudante de Análise de Desenvolvimento de Sistemas;
 - Trabalho no Supremo Tribunal Militar, exercendo a função atualmente como motorista; 
-- Contenho cursos de MOPP, CVE, INFORMATICA e CAT D;
+- Contenho cursos de MOPP, CVE, INFORMATICA;
 - Repositórios do meu perfil são atividades do meu curso;
 - E-mails para contato:
 - gs668951@gmail.com (Pessoal)
